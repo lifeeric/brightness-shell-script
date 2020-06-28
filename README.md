@@ -1,4 +1,4 @@
-# brightness-shell-script
+# brtns
 As Developer, working late night in front of computer is common, but working late night has got a brightness problem which effects on eye long run, this script will help you to adjust your monitor brightness *NIX OS!
 
 
