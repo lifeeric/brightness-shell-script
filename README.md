@@ -3,6 +3,7 @@ As Developer, working late night in front of computer is common, but working lat
 
 
 ## Clone
+follow the underneath steps:
 ```
 git clone https://github.com/lifeeric/brightness-shell-script.git
 cd brightness
@@ -17,6 +18,18 @@ sudo cp brtns /bin
 ```
 
 ## Usage
+
+run the below command:
+```
+brtns
+```
+
+give it brightness value, takes from 1 to 100 or 1 to 10!
+
+```
+$ brtns 60
+```
+or
 
 ```
 $ brtns 6
